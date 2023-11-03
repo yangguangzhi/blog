@@ -1,0 +1,2 @@
+import{_ as n,o as t,c as s,a as e}from"./app-a60018d3.js";const a={},c=e("div",{class:"language-text line-numbers-mode","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`Nginx 学习记录笔记
+`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),l=[c];function i(o,r){return t(),s("div",null,l)}const _=n(a,[["render",i],["__file","index.html.vue"]]);export{_ as default};

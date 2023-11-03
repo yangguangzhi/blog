@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e86b923a","path":"/blogs/middleware/kubernetes/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1695129007000,"updatedTime":1695129007000,"contributors":[{"name":"gzyang","email":"gzyang@kg.com","commits":1}]},"filePathRelative":"blogs/middleware/kubernetes/index.md"}');export{e as data};
