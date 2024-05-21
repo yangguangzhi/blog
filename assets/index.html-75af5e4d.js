@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e603ca5e","path":"/blogs/database/redis/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1694760104000,"updatedTime":1694760104000,"contributors":[{"name":"gzyang","email":"gzyang@kg.com","commits":1}]},"filePathRelative":"blogs/database/redis/index.md"}');export{e as data};
